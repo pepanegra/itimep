@@ -179,4 +179,12 @@ footer{
     height: 50vh;
     margin-bottom: 10%;
   }
+  .i{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+     width: 100%;
+   
+     margin-bottom: 10%;
+  }
 }
